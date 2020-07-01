@@ -13,7 +13,7 @@ Table of Contents
 	* [Dependencies](#dependencies)
 	* [Installing](#installing)
 	* [Executing program](#executing-program)
-* [Getting Started](#getting-started-1)
+* [Getting Started](#getting-started)
 	* [Adding a custom unitfile](#adding-a-custom-unitfile)
 	* [Debugging your custom files](#debugging-your-custom-files)
         * [Advanced debugging](#Advanced-debugging)
